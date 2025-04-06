@@ -1,9 +1,3 @@
 # My_Cricket_Tracker
 
-Required softwares
-
-1. Eclipse
-2. PostgreSQL
-3. Postman
-4. GITLab
-5. Java version 17
+![image](https://github.com/user-attachments/assets/5704801d-bde2-4a6f-9c09-a09228654283)
